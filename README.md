@@ -1,5 +1,5 @@
-# Named-Entity-Recognition-using-Tranformers
-I have Fine tuned BERT using HuggingFace transformers to perform Named Entity Recognition on Text data. BERT is a state-of-the-art model with attention mechanism as underlying architecture trained with masked-language-modelling and next-sentence-prediction objectives, used for various tasks including Question answering systems, Text Summarization etc... which can also perform token classification tasks such as NER with great performance.
+# Named-Entity-Recognition-using-Transformers
+I have Fine-tuned BERT using HuggingFace transformers to perform Named Entity Recognition on Text data. BERT is a state-of-the-art model with attention mechanism as underlying architecture trained with masked-language-modeling and next-sentence-prediction objectives, used for various tasks including Question answering systems, Text Summarization, etc... which can also perform token classification tasks such as NER with great performance.
 
 # Dataset
 **CoNLL-2003** :
